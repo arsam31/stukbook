@@ -53,3 +53,5 @@ gem 'simple_form'
 gem 'devise'
 
 gem 'gravatarify', '~> 3.0.0'
+
+gem 'public_activity'
